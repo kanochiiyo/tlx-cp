@@ -1,4 +1,4 @@
 # gemastik problem set ans
 
-bp = babak penyisihan
+bp = babak penyisihan\
 f = final
